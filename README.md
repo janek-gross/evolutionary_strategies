@@ -14,7 +14,7 @@ Over the course of 300 generations the population of 50 hypotheses evolves towar
 
 ### Optimization of a Simple Function Visualized
 <p align="center">
-<img src="https://github.com/janek-gross/evolutionary_strategies/blob/master/evolutionary_optimization.gif?raw=true" width="600" height="600" title="evolution of the population over 80 generations"/>
+<img src="https://github.com/janek-gross/evolutionary_strategies/blob/master/evolutionary_optimization.gif?raw=true" width="600" height="600"/>
 </p>
 
 ## License
