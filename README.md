@@ -1,5 +1,7 @@
 # evolutionary_strategies
 This repository provides an <b>unofficial</b> implementation of the evolutionary strategies optimizer by ???.
+Evolutionary optimization is an optimization technique inspired by natural selection.
+Most optimization techniques rely on analytical or numerical computations of function derivatives. Thus they are limited to smooth or at least continous functions. With evolutionary algorithms even discrete functions can be optimized.
 
 
 ## Requirements
@@ -7,13 +9,11 @@ This repository provides an <b>unofficial</b> implementation of the evolutionary
 - [x] `Numpy`
 
 ## Usage
-The code in the example_plot.py file demonstrates
-- how to convert a matplotlib figure into an rgb array.
-- how to create an animated *.gif image from an array of rgb or grayscale images.
+The examples.ipynb jupiter-notebook demonstrates the basic functionality of the evolutionary strategies optimizer.
 
 ### Recursive Plot of an Axes Image
 <p align="center">
-<img src="https://github.com/janek-gross/plot_utilities/blob/master/test.gif?raw=true" width="400" height="400" />
+<img src="https://github.com/janek-gross/evolutionary_strategies/blob/master/evolutionary_optimization.gif?raw=true" width="600" height="600" />
 </p>
 
 ## License
