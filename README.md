@@ -9,11 +9,12 @@ Most optimization techniques rely on analytical or numerical computations of fun
 - [x] `Numpy`
 
 ## Usage
-The examples.ipynb jupiter-notebook demonstrates the basic functionality of the evolutionary strategies optimizer.
+The example_optimization.ipynb jupiter-notebook demonstrates the basic functionality of the evolutionary strategies optimizer.
+Over the course of 300 generations the population of 50 hypotheses evolves towards the correct solution within a reasonable precision.
 
 ### Optimization of a Simple Function Visualized
 <p align="center">
-<img src="https://github.com/janek-gross/evolutionary_strategies/blob/master/evolutionary_optimization.gif?raw=true" width="600" height="600" />
+<img src="https://github.com/janek-gross/evolutionary_strategies/blob/master/evolutionary_optimization.gif?raw=true" width="600" height="600" title="evolution of the population over 80 generations"/>
 </p>
 
 ## License
