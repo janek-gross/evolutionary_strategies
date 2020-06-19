@@ -16,6 +16,6 @@ Over the course of 300 generations the population of 50 hypotheses evolves towar
 <p align="center">
 <img src="https://github.com/janek-gross/evolutionary_strategies/blob/master/evolutionary_optimization.gif?raw=true" width="600" height="600"/>
 </p>
-<p>The blue dots show how the population evolves during the first 80 optimization steps.</p>
+<p>The blue dots show how the population evolves during the first 80 optimization steps. The z-axis (vertical) represents the fitness. The function is optimized along the x- and y-axis</p>
 ## License
 https://unlicense.org
