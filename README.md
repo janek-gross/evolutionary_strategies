@@ -1,5 +1,5 @@
 # evolutionary_strategies
-This repository provides an <b>unofficial</b> implementation of the evolutionary strategies optimizer by Beyer and Schwefel<sup>1</sup> 2002.
+This repository provides an <b>unofficial</b> implementation of the evolutionary strategies optimizer by Beyer and Schwefel 2002<sup>1</sup>.
 Evolutionary optimization is an optimization technique inspired by natural selection.
 Most optimization techniques rely on analytical or numerical computations of function derivatives. Thus they are limited to smooth or at least continous functions. With evolutionary algorithms even discrete functions can be optimized.
 
