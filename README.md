@@ -11,7 +11,7 @@ Most optimization techniques rely on analytical or numerical computations of fun
 ## Usage
 The examples.ipynb jupiter-notebook demonstrates the basic functionality of the evolutionary strategies optimizer.
 
-### Recursive Plot of an Axes Image
+### Optimization of a Simple Function Visualized
 <p align="center">
 <img src="https://github.com/janek-gross/evolutionary_strategies/blob/master/evolutionary_optimization.gif?raw=true" width="600" height="600" />
 </p>
